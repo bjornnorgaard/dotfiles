@@ -52,7 +52,7 @@
     "Green Component" : 0.32156851887702942
   },
   "Horizontal Spacing" : 1,
-  "Rows" : 25,
+  "Rows" : 40,
   "Default Bookmark" : "No",
   "Cursor Guide Color" : {
     "Red Component" : 0.70213186740875244,
@@ -111,7 +111,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.49019604921340942
   },
-  "Columns" : 80,
+  "Columns" : 180,
   "Idle Code" : 0,
   "Ansi 13 Color" : {
     "Red Component" : 1,
